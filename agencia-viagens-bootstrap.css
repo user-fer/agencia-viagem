@@ -1,0 +1,17 @@
+header p {
+  color: #ffffff;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: medium;
+}
+
+h1 {
+  font-size: 63px;
+  color: #eeec6e;
+}
+
+h2 {
+  font-size: 24px;
+  text-transform: uppercase;
+  color: #303030;
+  font-weight: 600;
+}
