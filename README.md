@@ -1,2 +1,2 @@
 # agencia-viagem
-Exercício prático HTML, CSS e Bootstrap
+Praticando HTML e CSS
